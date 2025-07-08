@@ -26,14 +26,14 @@ Specifically:
 
 
 <div align="center">
-  <img src="readme_images/TDA_Features.png" alt="TDA Features" width="400"/>
+  <img src="README_images/TDA_Features.png" alt="TDA Features" width="400"/>
 </div>
 
 - These features were embedded into quantum states via a **quantum domain embedding** method.
 - I constructed a **six-layer quantum circuit** using rotation gates with trainable parameters and controlled gates to create entanglement. The model (VQC) was designed for multi-class classification across the ten Hurst exponent classes.
 
 <div align="center">
-  <img src="readme_images/VQC.png" alt="Quantum Circuit Model" width="400"/>
+  <img src="README_images/VQC.png" alt="Quantum Circuit Model" width="400"/>
 </div>
 
 - The cost function was defined as the square of the expectation value of the Pauli-Z operator, capturing the probabilistic nature of quantum measurements.
