@@ -127,7 +127,7 @@ In the process of completing this thesis, I also explored and implemented other 
 
 You can find the code and experiments related to these topics in the following folders of this repository, or in my separate repository for side projects:
 
-👉 [qml-lab Repository](https://github.com/NargesEghbali/qml-lab)
+👉 [qml-lab Repository](https://github.com/NargesEghbali/QML-Lab)
 
 This side repository collects various experiments and models I worked on during my studies, and may serve as inspiration for others interested in quantum machine learning.
 ## How to Use
